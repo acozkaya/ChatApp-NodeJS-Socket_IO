@@ -1,0 +1,29 @@
+﻿
+<Duyurular>
+    <duyuru>
+        <duyuruNo>1</duyuruNo>
+        <duyuruAyrinti>
+Socket.IO Chat App...
+	</duyuruAyrinti>
+    </duyuru>
+    <duyuru>
+        <duyuruNo>2</duyuruNo>
+        <duyuruAyrinti> 1000</duyuruAyrinti>
+    </duyuru>
+    <duyuru>
+        <duyuruNo>3</duyuruNo>
+        <duyuruAyrinti>XML </duyuruAyrinti>
+    </duyuru>
+    <duyuru>
+        <duyuruNo>4</duyuruNo>
+        <duyuruAyrinti>Ad</duyuruAyrinti>
+    </duyuru>
+    <duyuru>
+        <duyuruNo>5</duyuruNo>
+        <duyuruAyrinti>2000</duyuruAyrinti>
+    </duyuru>
+    <duyuru>
+        <duyuruNo>6</duyuruNo>
+        <duyuruAyrinti>3000...</duyuruAyrinti>
+    </duyuru>
+</Duyurular>
